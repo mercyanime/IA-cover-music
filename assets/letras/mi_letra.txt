@@ -1,0 +1,16 @@
+# Título: Pon aquí el nombre de tu canción
+# BPM: 133
+# Estilo: Rap / Trap / General
+
+Escribe aquí tu letra línea por línea:
+
+Verso 1
+Aquí van las frases de la primera parte,
+una debajo de la otra para que se lea bien.
+
+CORO
+Aquí va la parte que se repite,
+clara y ordenada.
+
+Verso 2
+Y así sigues con todo lo que quieras agregar.
